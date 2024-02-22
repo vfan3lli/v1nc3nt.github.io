@@ -1,4 +1,4 @@
-# v1nc3nt.github.io
+# Vincent Fanelli
 
 ### Education
 George Mason Univeristy
